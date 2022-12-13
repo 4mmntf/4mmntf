@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=popout"><img src="https://img.shields.io/badge/-VScode-007AC0.svg?logo=visualstudiocode&style=popout"><img src="https://img.shields.io/badge/-Intellij%20IDEA-000000.svg?logo=intellijidea&style=popout"><img src="https://img.shields.io/badge/-Python-fff462.svg?logo=python&style=popout">
 
 🏫I'm student of National Institute of Technology, Ichinoseki College 
-## Learning
+## 📕Learning
 I'm learning
 - Python  
   >AI 
@@ -11,7 +11,7 @@ I'm learning
 - kotlin
 
 
-## Status
+## ⚡Status
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mmntf&layout=compact&theme=tokyonight)](https://github.com/4mmntf/)
 
 <!--
