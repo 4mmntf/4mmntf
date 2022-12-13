@@ -4,12 +4,10 @@
 🏫I'm student of National Institute of Technology, Ichinoseki College 
 ## Learning
 I'm learning
->Python
->>AI 
->> 
->C#＆Unity  
->
->kotlin
+- Python
+>AI 
+C#＆Unity  
+kotlin
 
 
 ## Status
