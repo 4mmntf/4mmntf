@@ -1,4 +1,9 @@
-# I'm Oikawa
+# I'm Oikawa  
+<img src="https://img.shields.io/badge/-VScode-007AC0.svg?logo=visualstudiocode&style=popout">
+
+🏫I'm student of National Institute of Technology, Ichinoseki College 
+
+
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mmntf&layout=compact&theme=tokyonight)](https://github.com/4mmntf/)
 
