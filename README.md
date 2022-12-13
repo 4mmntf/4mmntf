@@ -4,11 +4,11 @@
 🏫I'm student of National Institute of Technology, Ichinoseki College 
 ## 📕Learning
 I'm learning
-- Python  
+- <img src="https://i.imgur.com/vrs8Ctw.png" title="source: imgur.com" width="1.5%"/>Python  
   >AI 
-- C#  
+- <img src="https://i.imgur.com/cyaoO9I.png" title="source: imgur.com" width="1.7%"/>C#  
   >Unity  
-- kotlin
+- <img src="https://i.imgur.com/Vmb4LcD.png" title="source: imgur.com" width="1.3%"/>kotlin
 
 
 ## ⚡Status
