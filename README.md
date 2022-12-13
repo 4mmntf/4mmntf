@@ -4,9 +4,9 @@
 🏫I'm student of National Institute of Technology, Ichinoseki College 
 ## 📕Learning
 I'm learning
-- <img src="https://i.imgur.com/vrs8Ctw.png" title="source: imgur.com" width="1.5%"/>Python  
+- <img src="https://i.imgur.com/B97qV9g.png" title="source: imgur.com" width="1.7%"/>Python  
   >AI 
-- <img src="https://i.imgur.com/cyaoO9I.png" title="source: imgur.com" width="1.7%"/>C#  
+- <img src="https://i.imgur.com/cyaoO9I.png" title="source: imgur.com" width="2%"/>C#  
   >Unity  
 - <img src="https://i.imgur.com/Vmb4LcD.png" title="source: imgur.com" width="1.3%"/>kotlin
 
