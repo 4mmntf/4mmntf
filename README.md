@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there !
+
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/4mmntf/)
 
 <!--
 **4mmntf/4mmntf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
