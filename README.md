@@ -1,16 +1,14 @@
 # I'm Oikawa
-<img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=popout"><img src="https://img.shields.io/badge/-VScode-007AC0.svg?logo=visualstudiocode&style=popout"><img src="https://img.shields.io/badge/-Python-fff462.svg?logo=python&style=popout"><img src="https://img.shields.io/badge/-PyTorch-333631.svg?logo=pytorch&style=plastic"><img src="https://img.shields.io/badge/-TensorFlow-302833.svg?logo=tensorflow&style=plastic">
+<img src="https://img.shields.io/badge/-Python-fff462.svg?logo=python&style=popout">
 
 🏫I'm student of National Institute of Technology, Ichinoseki College  
 mainly learning Python with Deeplearning  
-16 years old
+18 years old
 
 ## 📕Learning
 I'm learning
 - <img src="https://i.imgur.com/B97qV9g.png" title="source: imgur.com" width="1.7%"/>Python  
   >AI 
-- <img src="https://i.imgur.com/cyaoO9I.png" title="source: imgur.com" width="2%"/>C#  
-  >Unity  
 
 
 ## ⚡Status
