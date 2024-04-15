@@ -1,4 +1,3 @@
-# I'm Oikawa
 <img src="https://img.shields.io/badge/-Python-fff462.svg?logo=python&style=popout">
 
 🏫I'm student of National Institute of Technology, Ichinoseki College  
