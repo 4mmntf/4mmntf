@@ -10,9 +10,6 @@ I'm learning
   >AI 
 
 
-## ⚡Status
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=4mmntf&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/4mmntf/)[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mmntf&layout=compact&theme=tokyonight)](https://github.com/4mmntf/)
-
 <!--
 **4mmntf/4mmntf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
