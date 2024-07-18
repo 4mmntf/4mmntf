@@ -1,13 +1,12 @@
-<img src="https://img.shields.io/badge/-Python-fff462.svg?logo=python&style=popout">
-
-🏫I'm student of National Institute of Technology, Ichinoseki College  
-mainly learning Python with Deeplearning  
-18 years old
-
 ## 📕Learning
-I'm learning
-- <img src="https://i.imgur.com/B97qV9g.png" title="source: imgur.com" width="1.7%"/>Python  
-  >AI 
+- Python
+- C/C++
+- Rust
+- Algorithm
+- MLP
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mmntf)
+
 
 
 <!--
