@@ -1,6 +1,5 @@
 ## 📕Learning
 - Python
-- C/C++
 - Rust
 - Algorithm
 - MLP
